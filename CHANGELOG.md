@@ -1,3 +1,6 @@
+### 4.4.1
+ * Prevent ETag check when a range is specified in the download request
+
 ### 4.4.0
 
  * Export aws-sdk dependency
