@@ -1,6 +1,6 @@
 {
   "name": "s3",
-  "version": "4.4.4",
+  "version": "4.4.5",
   "description": "high level amazon s3 client. upload and download files and directories",
   "main": "lib/index.js",
   "scripts": {
@@ -34,7 +34,7 @@
     "ncp": "2.0.0"
   },
   "dependencies": {
-    "aws-sdk": "2.687.0",
+    "aws-sdk": "2.881.0",
     "fd-slicer": "1.1.0",
     "findit2": "2.2.3",
     "graceful-fs": "4.2.3",
